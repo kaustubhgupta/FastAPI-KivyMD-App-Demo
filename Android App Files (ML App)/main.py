@@ -114,7 +114,7 @@ ScreenManager:
         text_color: 0, 1, 0, 1
 
     MDRaisedButton:
-        pos_hint: {'center_x':0.5, 'center_y':0.1}
+        pos_hint: {'center_x':0.5, 'cent er_y':0.1}
         text: 'Predict'
         on_press: app.predict()
 '''
